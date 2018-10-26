@@ -1,5 +1,5 @@
 %% File Name: data.lrt18.Rd
-%% File Version: 0.03
+%% File Version: 0.04
 
 \name{data.lrt18}
 \alias{data.lrt18}
@@ -23,10 +23,10 @@ data(data.lrt18a)
 
 
 \format{
-\itemize{	
+\itemize{    
 \item  \code{data.lrt18a}.  \cr
 A resimulated dataset from Luedtke et al. (2018) comprising
-1,782 dyad, 362 students nested with 35 groups. The dataset is a list containing
+1,782 dyads, 362 students nested with 35 groups. The dataset is a list containing
 two datasets at the dyad (\code{$dyad}) and the student (\code{$student}) level. 
 The dataset at the dyad level
 contains round robin ratings in Mathematics and English. The dataset at the

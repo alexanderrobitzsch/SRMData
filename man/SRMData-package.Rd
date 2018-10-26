@@ -1,5 +1,5 @@
 %% File Name: SRMData-package.Rd
-%% File Version: 0.01
+%% File Version: 0.03
 
 \name{SRMData-package}
 \alias{SRMData-package}
@@ -7,12 +7,11 @@
 \docType{package}
 
 \title{
-Datasets for the Social Relations Model (SRMData)
+\packageTitle{SRMData}
 }
 
 \description{
-    Contains several original and resimulated datasets of 
-    published articles for the social relations model.
+\packageDescription{SRMData}
 }
 
 %% \details{
@@ -33,10 +32,9 @@ Datasets for the Social Relations Model (SRMData)
 
 
 \author{
-Alexander Robitzsch, Oliver Luedtke
-IPN - Leibniz Institute for Science and Mathematics Education
-at Kiel University \cr \cr
-Maintainer: Alexander Robitzsch <robitzsch@ipn.uni-kiel.de> \cr \cr
+\packageAuthor{SRMData}
+
+Maintainer: \packageMaintainer{SRMData}
 }
 
 

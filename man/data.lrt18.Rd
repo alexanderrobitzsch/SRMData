@@ -1,5 +1,5 @@
 %% File Name: data.lrt18.Rd
-%% File Version: 0.04
+%% File Version: 0.05
 
 \name{data.lrt18}
 \alias{data.lrt18}
@@ -60,7 +60,8 @@ Luedtke, O., Robitzsch, A., & Trautwein, U. (2018).
 Integrating covariates into social relations models: 
 A plausible values approach for handling measurement error in 
 perceiver and target effects.
-\emph{Multivariate Behavioral Research}, \bold{xx}, xxx-xxx.
+\emph{Multivariate Behavioral Research, 53}(1), 102-124.
+\doi{10.1080/00273171.2017.1406793}
 }
 
 

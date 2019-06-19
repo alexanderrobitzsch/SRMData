@@ -22,12 +22,14 @@ robitzsch@ipn.uni-kiel.de
 
 
 -----------------------------------------------------------------
-VERSIONS SRMData 0.0  |  2018-11-12  |  Last: SRMData 0.0-7
+VERSIONS SRMData 0.0  |  2019-06-19  |  Last: SRMData 0.0-14
 -----------------------------------------------------------------
 
 NOTE  * included resimulated dataset from Luedtke, Robitzsch 
-        and Trautwein (in press, MBR)
+        and Trautwein (2018, MBR)
 
-DATA  * included/modified datasets: data.lrt18a
+
+DATA  * included/modified datasets: data.lrt18a, data.rlno,
+        data.dc
 EXAMP * included/modified examples: ---
 

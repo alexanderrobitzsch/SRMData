@@ -1,14 +1,19 @@
 Package: SRMData
 Type: Package
 Title: Datasets for the Social Relations Model
-Version: 0.0-7
-Date: 2018-11-12 10:30:16
-Author: Alexander Robitzsch [aut,cre], Oliver Luedtke [aut]
+Version: 0.0-14
+Date: 2019-06-19 11:52:30
+Author:
+    Alexander Robitzsch [aut,cre], Oliver Luedtke [aut],
+    Steffen Nestler [aut]
 Maintainer: Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>
 Description: 
     Contains several original and resimulated datasets of 
     published articles for the social relations model.
 Depends:
     R (>= 3.1)
+Enhances:
+    srm, TripleR
 URL: https://github.com/alexanderrobitzsch/SRMData
 License: GPL (>= 2)
+RoxygenNote: 6.1.1

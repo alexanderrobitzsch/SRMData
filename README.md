@@ -18,9 +18,9 @@ The CRAN version can be installed from within R using:
 utils::install.packages("SRMData")
 ```
 
-#### GitHub version `SRMData` 0.0-7 (2018-11-12)
+#### GitHub version `SRMData` 0.0-14 (2019-06-19)
 
-[![](https://img.shields.io/badge/github%20version-0.0--7-orange.svg)](https://github.com/alexanderrobitzsch/SRMData)&#160;&#160;
+[![](https://img.shields.io/badge/github%20version-0.0--14-orange.svg)](https://github.com/alexanderrobitzsch/SRMData)&#160;&#160;
 
 The version hosted [here](https://github.com/alexanderrobitzsch/SRMData) is the development version of `SRMData`. 
 The GitHub version can be installed using `devtools` as:
